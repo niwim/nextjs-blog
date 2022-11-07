@@ -7,7 +7,7 @@ import Date from "../../components/date";
 
 export default function Post({ postData }) {
   return (
-    <Layout home="false">
+    <Layout home={false}>
       <Head>
         <title>{postData.title}</title>
       </Head>
