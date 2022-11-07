@@ -23,7 +23,7 @@ export default function Home({ allPostsData }) {
       <section className={utilStyles.headingMd}>
         <p>
           I'm a aspiring fulltstack developer who just try to learn and make as
-          much as possible
+          much as possible, making this update to test out vercel!
         </p>
         <p>
           (This is a sample website - you’ll be building a site like this on{" "}
